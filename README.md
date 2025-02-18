@@ -7,4 +7,8 @@ A complex physics based jet engine simulator
 
 
 ## Running the sim
-As for how to run the sim, use the python file with the biggest verion number, dont forget to change the csv file directories. (Im not going to do that for you you lazy shits, fuck you Magey!)
+As for how to run the sim, (after installing the requirements) you can do the following:
+
+```
+python jet_engine.py
+```
